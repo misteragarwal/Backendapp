@@ -1,0 +1,12 @@
+{
+  "name": "backendapp",
+  "version": "1.0.0",
+  "description": "backend app for my project",
+  "license": "ISC",
+  "author": "Rahul Agarwal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
