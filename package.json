@@ -4,9 +4,12 @@
   "description": "backend app for my project",
   "license": "ISC",
   "author": "Rahul Agarwal",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
